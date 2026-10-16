@@ -1,0 +1,53 @@
+{
+  "id": "01",
+  "title": "甲虫的第二次蜕壳",
+  "world_version": "0.2",
+  "draft_version": "0.1",
+  "status": "完整初稿／待用户审阅",
+  "time": "T24",
+  "body_characters": 2576,
+  "count_rule": "正文去空白字符，排除标题与虚构说明",
+  "named_characters": [
+    "Gregor",
+    "Jessica",
+    "Michael",
+    "Chris",
+    "Ryan",
+    "Taylor",
+    "Kevin",
+    "David"
+  ],
+  "scene_count": 6,
+  "theme": "组织以晋升奖励一个人，也把无人承担的责任交给他",
+  "goal": "明确交接并赶上周五看房",
+  "conflicts": [
+    "旧任务无接手资源",
+    "对齐被当作资源承诺而压缩时间",
+    "补救成果被展示为可扩展模式"
+  ],
+  "scores": [
+    5,
+    5,
+    5,
+    4,
+    4,
+    5,
+    4,
+    4,
+    5,
+    5
+  ],
+  "total_score": 46,
+  "score_note": "编辑自评，非读者评分；应再打磨David的实际取舍与Gregor的反应",
+  "similarity_note": "初稿库仅本篇，无前稿可比；与其他计划不共享旧壳结尾",
+  "continuity": [
+    "六项旧工作未交出",
+    "旧壳成为文件容器，不再穿戴",
+    "看房未成",
+    "Chris仍在职，父亲复诊线保留",
+    "Gregor无直接下属"
+  ],
+  "user_approved": false,
+  "published": false,
+  "published_at": null
+}

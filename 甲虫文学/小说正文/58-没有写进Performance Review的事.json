@@ -1,0 +1,58 @@
+{
+  "id": "58",
+  "title": "没有写进Performance Review的事",
+  "world_version": "4.1",
+  "draft_version": "0.1",
+  "status": "完整正文已写／待用户审阅",
+  "time": "T95—T96",
+  "body_characters": 2729,
+  "count_rule": "正文去空白字符，标题与虚构声明不计",
+  "named_characters": [
+    "Gregor",
+    "Emma",
+    "Lucas",
+    "Michael",
+    "Kevin",
+    "Grace",
+    "Thomas",
+    "Ethan"
+  ],
+  "scene_count": 6,
+  "theme": "真实协作难以独占归因，也不能免除本职责任",
+  "goal": "完成年度总结和利润桥表，有限支持家清试点评审",
+  "conflicts": [
+    "删样本限制和推迟客户回复使事情复杂",
+    "帮助占用本职时间，桥表逾期且遭合理提醒",
+    "承认误判、限定时段并让新人自己作判断"
+  ],
+  "scores": [
+    5,
+    5,
+    5,
+    4,
+    5,
+    5,
+    4,
+    4,
+    5,
+    5
+  ],
+  "total_score": 47,
+  "score_note": "编辑自评，未作读者测试；学校信息未强行植入，经理反馈不一律写成不公",
+  "user_approved": false,
+  "published": false,
+  "published_at": null,
+  "continuity": [
+    "T95—T96第八年，Gregor仍Band 2，Michael仍直属Director",
+    "Emma首次Review已在T93；本篇为后续家清项目",
+    "Thomas回忆发生T6，共事范围T4—T7，非Line Manager",
+    "Ethan T95新入职，查凭证与署名属于本人",
+    "未登记任何Promotion、奖项或新的直属下属"
+  ],
+  "functional_details": [
+    "年度Net Sales增长4.2%和利润预算达成是虚构年度项目结果",
+    "渠道进货12%与36家同店零售约2%属另一短期试点口径，不能混成同一增长率",
+    "12家无可比终端数据不等于销售为零，不能把36家外推全部",
+    "库存、收货窗口、费用归类与样本边界由不同职能共同确认"
+  ]
+}

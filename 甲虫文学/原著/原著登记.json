@@ -1,0 +1,23 @@
+{
+  "title": "快消市场部变形记",
+  "subtitle": "一只没有头发的甲虫，如何做好洗发水Marketing",
+  "path": "原著/快消市场部变形记-原始上传.txt",
+  "source_file_id": "file_000000007cec8211a44e9f9585aed91f",
+  "sha256": "13e84a812c9978f06957840d8aaaa926efefada44eafc8cace06e437cae6810e",
+  "bytes": 13079,
+  "read_status": "已完整读取开篇及八节直至末句Capacity",
+  "sections": [
+    "### 一、Gossip",
+    "### 二、What Needs to Be True",
+    "### 三、FMOT",
+    "### 四、全员Mean人",
+    "### 五、Ownership与E&I",
+    "### 六、Alignment",
+    "### 七、Performance Review",
+    "### 八、真正的变形"
+  ],
+  "scope": "原著本身原样保护；风格基准以此为依据，不根据Prompt摘要推断",
+  "original_line_endings_preserved": true,
+  "length_exemption": "原著不受新篇2000—3000字限制，不裁剪以凑长度",
+  "date_provenance": "按用户称呼登记为昨天原著；未独立确认创作日期，不凭当前日期虚构原作时间"
+}

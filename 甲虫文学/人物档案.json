@@ -1,0 +1,1162 @@
+{
+  "version": "5.0",
+  "authority": "最新用户最终修订优先；已完整阅读原著；五年多、Hair Care、主动生产黑话高于V4.0／V4.1冲突设定",
+  "company": {
+    "zh": "宝劫集团",
+    "en": "Pain & Growth",
+    "abbreviation": "P&G",
+    "fictional": true,
+    "slogan_en": "Touching Lives, Improving KPIs.",
+    "slogan_zh": "亲近生活，改善指标。"
+  },
+  "characters": [
+    {
+      "name": "Gregor",
+      "role": "Brand Manager",
+      "band": "Band 1→Band 2",
+      "gender": "男",
+      "goal_and_trait": "认真、敏感、善良、有虚荣；专业能力不错且有真实业务成绩，仍希望收入、Career Progress和认可",
+      "fear": "被认为没有潜力、付不起房租",
+      "limits": "非团队Performance最好，非最年轻Director；在意Feedback，容易自疑，有时不善Managing Up和Push Back，会误判政治及新人需要；帮助可能挤压本职工作，不是被埋没的完美员工",
+      "detail": "左前足打字较慢，壳上的标签撕不净",
+      "relationships": "Michael（Band 3 Director）直属下级；Chris同批入职好友；T12晋升Band 2；无下属，无团队预算最终审批权或独立品牌策略决定权；T4—T7获Thomas项目Coaching（非直属关系）；T27成为Leo的Buddy，后帮助Emma、Lucas、Grace、Ethan",
+      "department": "Marketing / Hair Care",
+      "title": "Brand Manager",
+      "reports_to_position": "Marketing Director",
+      "reports_to_name": "Michael",
+      "tenure_reference_month": 0,
+      "tenure_years_at_reference": 0,
+      "employment_type": "宝劫集团内部",
+      "has_direct_reports": false,
+      "joined_at": "T0",
+      "career_events": [
+        {
+          "month": 0,
+          "band": "Band 1",
+          "title": "Brand Manager"
+        },
+        {
+          "month": 12,
+          "band": "Band 2",
+          "title": "Brand Manager"
+        }
+      ],
+      "education": {
+        "summary": "世界排名Top 20的美国大学硕士（未指定榜单、年份与校名）",
+        "status": "用户指定的虚构履历",
+        "fictional": true
+      },
+      "ability_profile": {
+        "skills": "分析、执行、协调和解决问题",
+        "demonstrated_by": "能复原错位的供需数据、让不同部门确认可执行步骤",
+        "self_implication": "会拿排名确认自我价值，也会为晋升把复杂现实写得过于整齐；过度帮助或教人圆滑也会使问题更复杂；会用专业框架排除不便讨论的产品问题，且对自己流利表达感到满意",
+        "caused_by_school": false
+      },
+      "language_background": {
+        "test": "IELTS",
+        "score": 7.5,
+        "preparation": "裸考",
+        "status": "用户指定虚构履历；不是对真实考试难度或实际语言能力的推定"
+      },
+      "recruitment_background": "五年多以前，美国世界排名Top 20大学硕士毕业，经校招T0入职；T12升Band 2；现在时T66、5年多快消经验",
+      "current_at_T66": {
+        "band": "Band 2",
+        "title": "Brand Manager",
+        "experience_years": 5.5,
+        "has_direct_reports": false,
+        "note": "未新增晋升或换经理事件；Michael为早期已确立的Line Manager，当前仍沿用登记关系"
+      },
+      "elite_culture_flaw": "认真、敏感、善良且有虚荣；会比较学历、追逐晋升、崇拜优秀领导，也会推动荒诞流程；不是唯一优秀或清醒的人",
+      "buddy_arc_ref": "buddy_arc；Thomas影响由被认可的渴望逐步转为对年轻同事的具体支持",
+      "performance_position": "Business Results可以不错但不突出；不拿People Caring证明比高绩效者更有价值；业务与关怀都需承担后果",
+      "business_achievements": [
+        {
+          "source": "原著七、Performance Review",
+          "fact": "一年成功Launch三款新品，Campaign ROI超过目标，市场份额增长；原著该年度具体月份未锁定，不能把他写成业务失败者"
+        }
+      ],
+      "core_business": "Hair Care，洗发水核心；控油、去屑、蓬松及清爽不干涩等真实使用问题",
+      "core_character_conflict": "既观察荒诞又参与再生产，主动熟练输出Corporate Buzzwords且有时自得；认真、困惑、虚荣、有成绩和缺点，会关心人也会复制自己曾讨厌的话术",
+      "body_timeline": {
+        "before_month_60": "普通人；不能在T0或T12回忆里已有六足、甲壳或触角",
+        "from_month_60": "原著首次变形的参考锚：巨大甲虫，无头发、头皮、毛囊，六足和触角参与工作",
+        "source_time_ambiguity": "原著第八节第二年未硬映射为当前已发生月份"
+      },
+      "buzzword_arc": {
+        "early": "接受并把约束内化为个人发展责任",
+        "present": "主动使用，可能对流利和专业感到满意，可能使新人或消费者承担后果",
+        "awareness": "不保证马上觉察或每篇醒悟；善意不会清除这条暗线",
+        "expressions": [
+          "Let's align on this.",
+          "Can we take more Ownership?",
+          "What's the key learning?",
+          "We should look at the bigger picture.",
+          "What Needs to Be True?"
+        ],
+        "source_evidence": [
+          "原著二：把长出毛囊写进Development Plan",
+          "原著五：把加Project理解为Potential认可",
+          "原著八：Challenge新人并排除产品本身的Root Cause"
+        ]
+      },
+      "legacy_manuscript_achievements_status": "旧01五家家清门店、旧58衣物清洁4.2%为旧稿素材，不登记为当前Hair Care正史的确认业绩"
+    },
+    {
+      "name": "David",
+      "role": "Marketing VP",
+      "band": "Band 4",
+      "gender": "男",
+      "goal_and_trait": "将问题提升为战略议题，想争取预算与Business Results",
+      "fear": "被视为失去战略方向、团队散掉",
+      "limits": "会保护预算，也会因抽象表达让具体决定延后",
+      "detail": "生日当天容易忘带门禁卡",
+      "relationships": "Band 4 Marketing VP；Michael直属上级；向Daniel汇报；不再使用Marketing Director头衔",
+      "department": "Marketing",
+      "title": "Marketing VP",
+      "reports_to_position": "Regional VP",
+      "reports_to_name": "Daniel",
+      "tenure_reference_month": 0,
+      "tenure_years_at_reference": 12,
+      "employment_type": "宝劫集团内部",
+      "has_direct_reports": true,
+      "education": {
+        "summary": "清华大学本科；美国MBA（商学院未指定）",
+        "status": "用户指定的虚构履历",
+        "fictional": true
+      },
+      "ability_profile": {
+        "skills": "战略判断、英语表达和高层沟通",
+        "demonstrated_by": "能把本地问题转成总部可决策的资源请求",
+        "self_implication": "也会将细节重命名为战略议题，推迟不利于叙事的决定",
+        "caused_by_school": false
+      }
+    },
+    {
+      "name": "Michael",
+      "role": "Marketing Director",
+      "band": "Band 3",
+      "gender": "男",
+      "goal_and_trait": "真心认可Gregor，想保住团队并培养接班能力",
+      "fear": "资源不足被解读为管理无能",
+      "limits": "常以Growth Opportunity分配额外工作，也会删掉不必要的演示",
+      "detail": "说最后一版时拧紧水杯",
+      "relationships": "Band 3 Marketing Director；Gregor、Chris、Olivia、Leo的Line Manager；向David汇报；控制团队授权范围内关键Decision",
+      "department": "Marketing",
+      "title": "Marketing Director",
+      "reports_to_position": "Marketing VP",
+      "reports_to_name": "David",
+      "tenure_reference_month": 0,
+      "tenure_years_at_reference": 8,
+      "employment_type": "宝劫集团内部",
+      "has_direct_reports": true,
+      "education": {
+        "summary": "北京大学本科",
+        "status": "用户指定的虚构履历",
+        "fictional": true
+      },
+      "ability_profile": {
+        "skills": "拆解问题、判断商业优先级及辅导",
+        "demonstrated_by": "能在有限预算中作取舍，帮下属删无必要工作",
+        "self_implication": "会把自己的成长路径当作他人应承受的任务",
+        "caused_by_school": false
+      }
+    },
+    {
+      "name": "Jessica",
+      "role": "HRBP",
+      "band": "Band 2",
+      "gender": "女",
+      "goal_and_trait": "相信People First，重视Employee Engagement与Talent Development",
+      "fear": "关怀项目没有可展示成果，无法争取资源",
+      "limits": "确实关心员工，也会为参与率增加提醒和活动",
+      "detail": "牙医预约总被挪动",
+      "relationships": "Band 2 HRBP；向HR Director（Band 3）汇报，业务支持Michael所管团队；负责人才、调研及绩效沟通，非Gregor的Line Manager",
+      "department": "HR",
+      "title": "HRBP",
+      "reports_to_position": "HR Director",
+      "reports_to_name": null,
+      "tenure_reference_month": 0,
+      "tenure_years_at_reference": 6,
+      "employment_type": "宝劫集团内部",
+      "has_direct_reports": false,
+      "education": {
+        "summary": "复旦大学本科；海外硕士（学校与专业未指定）",
+        "status": "用户指定的虚构履历",
+        "fictional": true
+      },
+      "ability_profile": {
+        "skills": "人才沟通、调研设计与组织协调",
+        "demonstrated_by": "能识别题目措辞的引导性，也能处理真实员工需求",
+        "self_implication": "为证明关怀成效而增加活动与测量负担",
+        "caused_by_school": false
+      }
+    },
+    {
+      "name": "Kevin",
+      "role": "Finance Manager",
+      "band": "Band 2",
+      "gender": "男",
+      "goal_and_trait": "重视Budget、ROI与Margin，希望现金流预测可用",
+      "fear": "付款断裂，或被说成阻碍业务",
+      "limits": "能揭示隐藏成本，也可能过度依赖整齐模型",
+      "detail": "计算器背面贴着孩子的画",
+      "relationships": "与Gregor合作核算；与Ryan讨论客户账期；直属Finance Director（Band 3），不向Gregor或Michael作人事汇报",
+      "department": "Finance",
+      "title": "Finance Manager",
+      "reports_to_position": "Finance Director",
+      "reports_to_name": "Aaron",
+      "tenure_reference_month": 0,
+      "tenure_years_at_reference": 4,
+      "employment_type": "宝劫集团内部",
+      "has_direct_reports": false,
+      "education": {
+        "summary": "上海交通大学金融相关专业（学历层次未指定）",
+        "status": "用户指定的虚构履历",
+        "fictional": true
+      },
+      "ability_profile": {
+        "skills": "建模、现金流及差异分析",
+        "demonstrated_by": "能找出看似节省却被移给他人的成本",
+        "self_implication": "可能把模型里无法列入的损失视为暂不可讨论",
+        "caused_by_school": false
+      }
+    },
+    {
+      "name": "Emily",
+      "role": "CMK Manager",
+      "band": "Band 2",
+      "gender": "女",
+      "goal_and_trait": "善于挖Consumer Insight，总觉得表面答案不够Deep",
+      "fear": "研究被歪读，或未发现机会而失去经费",
+      "limits": "愿保留不体面的原话，也可能追问出受访者本不存在的担忧",
+      "detail": "录音笔套旧袜子防磕碰",
+      "relationships": "与Gregor长期合作；与Sophia区分体验与性能证据；直属CMK Director（Band 3），不向Gregor或Michael作人事汇报",
+      "department": "CMK",
+      "title": "CMK Manager",
+      "reports_to_position": "CMK Director",
+      "reports_to_name": "Claire",
+      "tenure_reference_month": 0,
+      "tenure_years_at_reference": 5,
+      "employment_type": "宝劫集团内部",
+      "has_direct_reports": false,
+      "education": {
+        "summary": "北京大学心理学相关专业（学历层次未指定）",
+        "status": "用户指定的虚构履历",
+        "fictional": true
+      },
+      "ability_profile": {
+        "skills": "访谈、研究方法与证据边界判断",
+        "demonstrated_by": "能区分原话、偏好、行为与性能结论",
+        "self_implication": "会因追求更Deep继续追问，直到对方给出并不存在的故事",
+        "caused_by_school": false
+      }
+    },
+    {
+      "name": "Ryan",
+      "role": "CBD Manager",
+      "band": "Band 2",
+      "gender": "男",
+      "goal_and_trait": "了解客户、渠道与真实货架，想让计划能落地",
+      "fear": "客户缺货、压货或承诺无法兑现",
+      "limits": "对Marketing理想有耐心限制，也会为月末结果争取多出货",
+      "detail": "随身带被雨淋皱的巡店单",
+      "relationships": "渠道接口；与Chris为跨职能合作者，非同一角色；直属CBD Director（Band 3），不向Gregor或Michael作人事汇报",
+      "department": "CBD",
+      "title": "CBD Manager",
+      "reports_to_position": "CBD Director",
+      "reports_to_name": null,
+      "tenure_reference_month": 0,
+      "tenure_years_at_reference": 6,
+      "employment_type": "宝劫集团内部",
+      "has_direct_reports": false,
+      "education": {
+        "summary": "浙江大学本科",
+        "status": "用户指定的虚构履历",
+        "fictional": true
+      },
+      "ability_profile": {
+        "skills": "客户判断、渠道谈判与现场执行",
+        "demonstrated_by": "知道门店在什么约束下能接受方案",
+        "self_implication": "也会为自己的季度目标争取多出货",
+        "caused_by_school": false
+      }
+    },
+    {
+      "name": "Alex",
+      "role": "IT Manager",
+      "band": "Band 2",
+      "gender": "男",
+      "goal_and_trait": "相信Cybersecurity、Compliance与管理工具能提升效率",
+      "fear": "安全事故落在自己名下，工单积压",
+      "limits": "愿现场救急，也可能把工具覆盖率看得比实际体验更快",
+      "detail": "有一台不用于演示的旧电脑",
+      "relationships": "维护壳盾与工序镜；与Jessica一样受指标制约；直属IT Director（Band 3），不向Gregor或Michael作人事汇报",
+      "department": "IT",
+      "title": "IT Manager",
+      "reports_to_position": "IT Director",
+      "reports_to_name": null,
+      "tenure_reference_month": 0,
+      "tenure_years_at_reference": 7,
+      "employment_type": "宝劫集团内部",
+      "has_direct_reports": false,
+      "education": {
+        "summary": "华中科技大学计算机相关专业（学历层次未指定）",
+        "status": "用户指定的虚构履历",
+        "fictional": true
+      },
+      "ability_profile": {
+        "skills": "技术排障、系统依赖分析与合规判断",
+        "demonstrated_by": "能定位机器故障而不绕过安全边界",
+        "self_implication": "容易相信更完整的工具覆盖能替代对使用者时间的理解",
+        "caused_by_school": false
+      }
+    },
+    {
+      "name": "Sophia",
+      "role": "R&D Manager",
+      "band": "Band 2",
+      "gender": "女",
+      "goal_and_trait": "务实、知道技术限制，想让改良真正可用",
+      "fear": "被要求更Agile以至验证时间不足",
+      "limits": "能保护证据边界，也会用技术语言回避普通问题",
+      "detail": "带着被洗旧的测试布",
+      "relationships": "与Emily、Gregor协作；Taylor负责生产接口；直属R&D Director（Band 3），不向Gregor或Michael作人事汇报",
+      "department": "R&D",
+      "title": "R&D Manager",
+      "reports_to_position": "R&D Director",
+      "reports_to_name": null,
+      "tenure_reference_month": 0,
+      "tenure_years_at_reference": 6,
+      "employment_type": "宝劫集团内部",
+      "has_direct_reports": false,
+      "education": {
+        "summary": "清华大学理工科硕士",
+        "status": "用户指定的虚构履历",
+        "fictional": true
+      },
+      "ability_profile": {
+        "skills": "技术验证、可行性评估与使用条件分析",
+        "demonstrated_by": "能说明哪些实验支持宣称、哪些不能外推",
+        "self_implication": "也可能用精确术语结束本该继续的普通人对话",
+        "caused_by_school": false
+      }
+    },
+    {
+      "name": "Chris",
+      "role": "Brand Manager",
+      "band": "Band 1→Band 2",
+      "gender": "男",
+      "goal_and_trait": "聪明、幽默、能力强；想保留有用工作与可预期生活",
+      "fear": "贡献被低估，陪父亲复诊被当作不投入",
+      "limits": "是有自身野心与尊严的朋友，不只是制度牺牲品",
+      "detail": "两个饭盒：一个装饭，一个放项目票据",
+      "relationships": "与Gregor同批T0入职、T12升Band 2；向Michael汇报；T29绩效与岗位竞争后离职；非Gregor下属",
+      "department": "Marketing",
+      "title": "Brand Manager",
+      "reports_to_position": "Marketing Director",
+      "reports_to_name": "Michael",
+      "tenure_reference_month": 0,
+      "tenure_years_at_reference": 0,
+      "employment_type": "宝劫集团内部",
+      "has_direct_reports": false,
+      "joined_at": "T0",
+      "career_events": [
+        {
+          "month": 0,
+          "band": "Band 1",
+          "title": "Brand Manager"
+        },
+        {
+          "month": 12,
+          "band": "Band 2",
+          "title": "Brand Manager"
+        },
+        {
+          "month": 29,
+          "event": "离职"
+        }
+      ],
+      "education": {
+        "summary": "南京大学本科",
+        "status": "用户指定的虚构履历",
+        "fictional": true
+      },
+      "ability_profile": {
+        "skills": "执行、幽默、合作与现场问题处理",
+        "demonstrated_by": "能找出日期和货架尺寸错误，帮朋友但会划边界",
+        "self_implication": "并非只等别人拯救，会争贡献、投简历并作选择",
+        "caused_by_school": false
+      }
+    },
+    {
+      "name": "Olivia",
+      "role": "Senior Brand Manager",
+      "band": "Band 2",
+      "gender": "女",
+      "goal_and_trait": "精通Managing Up，准确理解重要会议中的领导意图",
+      "fear": "调岗承诺落空，无法兼顾孩子",
+      "limits": "会争Exposure，也真能替团队救场、帮Agency催款",
+      "detail": "带裁缝尺测拍摄站位",
+      "relationships": "资深Band 2 Manager，Title为Senior Brand Manager；向Michael汇报；擅长理解David意图，不能越级变成Director",
+      "department": "Marketing",
+      "title": "Senior Brand Manager",
+      "reports_to_position": "Marketing Director",
+      "reports_to_name": "Michael",
+      "tenure_reference_month": 0,
+      "tenure_years_at_reference": 5,
+      "employment_type": "宝劫集团内部",
+      "has_direct_reports": false,
+      "education": {
+        "summary": "广东外语外贸大学本科",
+        "status": "用户指定的虚构履历",
+        "fictional": true
+      },
+      "ability_profile": {
+        "skills": "商业判断、政治敏感度、谈判与中英沟通",
+        "demonstrated_by": "会识别谁真正能作决定，也能替Agency追回付款",
+        "self_implication": "会争Exposure，并非无私照料所有人的完人",
+        "caused_by_school": false
+      }
+    },
+    {
+      "name": "Daniel",
+      "role": "Regional VP",
+      "band": "Band 5",
+      "gender": "男",
+      "goal_and_trait": "参与Global Visit与Business Review，重视Strategic Narrative",
+      "fear": "区域资源决策失误，无法向总部解释",
+      "limits": "会认真问简单问题，也可能被顺畅叙事限制理解",
+      "detail": "家庭视频电话设成静音闹钟",
+      "relationships": "Band 5 Regional VP；David直属上级；向未出场Global President（Band 6）汇报",
+      "department": "Regional Leadership",
+      "title": "Regional VP",
+      "reports_to_position": "Global President",
+      "reports_to_name": null,
+      "tenure_reference_month": 0,
+      "tenure_years_at_reference": 18,
+      "employment_type": "宝劫集团内部",
+      "has_direct_reports": true,
+      "education": {
+        "summary": "海外知名商学院MBA（学校未指定）",
+        "status": "用户指定的虚构履历",
+        "fictional": true
+      },
+      "ability_profile": {
+        "skills": "跨市场资源分配和Strategic Narrative",
+        "demonstrated_by": "能问出某项本地做法能否持续及成本由谁承担",
+        "self_implication": "也会因会前故事顺畅，误以为难处已经被解决",
+        "caused_by_school": false
+      }
+    },
+    {
+      "name": "Taylor",
+      "role": "Product Supply Manager",
+      "band": "Band 2",
+      "gender": "男",
+      "goal_and_trait": "减少夜班、保证交期质量",
+      "fear": "一线工友承担临时承诺后果",
+      "limits": "懂产线，对临时改版缺耐心",
+      "detail": "知道每箱胶带能用多久",
+      "relationships": "与Ryan、Sophia、Gregor对接；直属Product Supply Director（Band 3），不向Gregor或Michael作人事汇报",
+      "department": "Product Supply",
+      "title": "Product Supply Manager",
+      "reports_to_position": "Product Supply Director",
+      "reports_to_name": null,
+      "tenure_reference_month": 0,
+      "tenure_years_at_reference": 8,
+      "employment_type": "宝劫集团内部",
+      "has_direct_reports": false,
+      "education": {
+        "summary": "未设定；正文需要时另行登记，不以职位反推学校",
+        "status": "未设定，不推测",
+        "fictional": true
+      },
+      "ability_profile": {
+        "skills": "减少夜班、保证交期质量",
+        "demonstrated_by": "知道每箱胶带能用多久",
+        "self_implication": "懂产线，对临时改版缺耐心",
+        "caused_by_school": false
+      }
+    },
+    {
+      "name": "Morgan",
+      "role": "外部Agency／客户经理",
+      "band": "不适用（外部）",
+      "gender": "女",
+      "goal_and_trait": "按时收款、让同事补休",
+      "fear": "竞标失利或客户流失",
+      "limits": "擅长整理需求，也会接下不合理日期",
+      "detail": "充电宝贴过期车票",
+      "relationships": "外部合作方，不是宝劫内部员工",
+      "employment_type": "外部合作／服务角色",
+      "title": "Agency Account Manager",
+      "reports_to_position": null,
+      "reports_to_name": null,
+      "tenure_reference_month": null,
+      "tenure_years_at_reference": null,
+      "has_direct_reports": false,
+      "external_reporting": "向Agency Account Director汇报，不向宝劫集团作人事汇报",
+      "external_experience": "T0时在Agency任职6年",
+      "education": {
+        "summary": "未设定；正文需要时另行登记，不以职位反推学校",
+        "status": "未设定，不推测",
+        "fictional": true
+      },
+      "ability_profile": {
+        "skills": "按时收款、让同事补休",
+        "demonstrated_by": "充电宝贴过期车票",
+        "self_implication": "擅长整理需求，也会接下不合理日期",
+        "caused_by_school": false
+      }
+    },
+    {
+      "name": "Leo",
+      "role": "Brand Manager",
+      "band": "Band 1",
+      "gender": "男",
+      "goal_and_trait": "证明自己不只是贵但不懂事",
+      "fear": "工资传闻隔离自己",
+      "limits": "愿跑腿，也会急于展示优秀",
+      "detail": "工牌挂绳还没有磨毛",
+      "relationships": "T27校招入职即Band 1 Brand Manager，向Michael汇报，Gregor只负责带教；40万元为虚构目标现金包；T27正式Buddy为Gregor，接受带教不等于必须感谢或依附；后续职级未登记，不从T27的Band 1自动外推T66",
+      "department": "Marketing",
+      "title": "Brand Manager",
+      "reports_to_position": "Marketing Director",
+      "reports_to_name": "Michael",
+      "tenure_reference_month": 27,
+      "tenure_years_at_reference": 0,
+      "employment_type": "宝劫集团内部",
+      "has_direct_reports": false,
+      "joined_at": "T27",
+      "career_events": [
+        {
+          "month": 27,
+          "band": "Band 1",
+          "title": "Brand Manager"
+        }
+      ],
+      "education": {
+        "summary": "未设定；正文需要时另行登记，不以职位反推学校",
+        "status": "未设定，不推测",
+        "fictional": true
+      },
+      "ability_profile": {
+        "skills": "证明自己不只是贵但不懂事",
+        "demonstrated_by": "工牌挂绳还没有磨毛",
+        "self_implication": "愿跑腿，也会急于展示优秀",
+        "caused_by_school": false
+      },
+      "buddy_recipient_history": {
+        "buddy": "Gregor",
+        "start_month": 27,
+        "first_formal_recipient": true
+      }
+    },
+    {
+      "name": "Serena",
+      "role": "外部健身教练",
+      "band": "不适用（外部）",
+      "gender": "女",
+      "goal_and_trait": "稳定续费并让学员不受伤",
+      "fear": "夜课被砍、收入减少",
+      "limits": "懂恢复，也需要用打卡促续费",
+      "detail": "下课吃打折饭团",
+      "relationships": "T31与Gregor相识；不是公司员工",
+      "employment_type": "外部合作／服务角色",
+      "title": "Fitness Coach",
+      "reports_to_position": null,
+      "reports_to_name": null,
+      "tenure_reference_month": null,
+      "tenure_years_at_reference": null,
+      "has_direct_reports": false,
+      "external_reporting": "向健身房运营负责人汇报，非集团雇员",
+      "external_experience": "T31首次出场时从业5年",
+      "education": {
+        "summary": "未设定；正文需要时另行登记，不以职位反推学校",
+        "status": "未设定，不推测",
+        "fictional": true
+      },
+      "ability_profile": {
+        "skills": "稳定续费并让学员不受伤",
+        "demonstrated_by": "下课吃打折饭团",
+        "self_implication": "懂恢复，也需要用打卡促续费",
+        "caused_by_school": false
+      }
+    },
+    {
+      "name": "Zoe",
+      "role": "外部退休零售主管／案例志愿者",
+      "band": "不适用（外部）",
+      "gender": "女",
+      "goal_and_trait": "把一线经验讲清楚、维护顾客选择",
+      "fear": "服务被简化成成交率",
+      "limits": "不愿诱导超预算，但也知道门店要生存",
+      "detail": "想把旧礼盒改成针线盒",
+      "relationships": "09案例参与者，非真实品牌雇员",
+      "employment_type": "外部合作／服务角色",
+      "title": "Retired Retail Supervisor / Case Volunteer",
+      "reports_to_position": null,
+      "reports_to_name": null,
+      "tenure_reference_month": null,
+      "tenure_years_at_reference": null,
+      "has_direct_reports": false,
+      "external_reporting": "已退休，无在职汇报线；按工作坊安排参与",
+      "external_experience": "T20出场时已有25年零售经验、退休2年",
+      "education": {
+        "summary": "未设定；正文需要时另行登记，不以职位反推学校",
+        "status": "未设定，不推测",
+        "fictional": true
+      },
+      "ability_profile": {
+        "skills": "把一线经验讲清楚、维护顾客选择",
+        "demonstrated_by": "想把旧礼盒改成针线盒",
+        "self_implication": "不愿诱导超预算，但也知道门店要生存",
+        "caused_by_school": false
+      }
+    },
+    {
+      "name": "Aaron",
+      "role": "Finance Director",
+      "band": "Band 3",
+      "gender": "男",
+      "goal_and_trait": "让资金风险得到准确判断，保住供应商付款连续性",
+      "fear": "为一个无法归因的商业假设背书",
+      "limits": "模型很强，倾向先讨论可核算部分",
+      "detail": "保存着大学小组作业里一张被划改过的预算纸",
+      "relationships": "Finance Director；向Daniel汇报；不担任Gregor的Line Manager",
+      "department": "Finance",
+      "title": "Finance Director",
+      "reports_to_position": "Regional VP",
+      "reports_to_name": "Daniel",
+      "tenure_reference_month": 0,
+      "tenure_years_at_reference": 6,
+      "employment_type": "宝劫集团内部",
+      "has_direct_reports": true,
+      "education": {
+        "summary": "北京大学经济相关专业本科",
+        "status": "本次新增虚构配角履历",
+        "fictional": true
+      },
+      "ability_profile": {
+        "skills": "金融与风险判断",
+        "demonstrated_by": "47中给出有根据、但不能替代业务取舍的论证",
+        "self_implication": "模型很强，倾向先讨论可核算部分",
+        "caused_by_school": false
+      },
+      "age_history": {
+        "at_month": -12,
+        "event": "升任Band 3 Finance Director",
+        "age": 27,
+        "note": "T0时已任职6年，28岁；只是一个虚构个案，不是统一晋升规律"
+      }
+    },
+    {
+      "name": "Claire",
+      "role": "CMK Director",
+      "band": "Band 3",
+      "gender": "女",
+      "goal_and_trait": "让研究结论保留置信边界，也获得可执行资源",
+      "fear": "不确定性被视为没有观点",
+      "limits": "知道数据不能替代决定，却会为避免错误被追责而过度限定措辞",
+      "detail": "总带两支不同颜色的笔，区分事实和假设",
+      "relationships": "CMK Director；向Daniel汇报；不担任Gregor的Line Manager",
+      "department": "CMK",
+      "title": "CMK Director",
+      "reports_to_position": "Regional VP",
+      "reports_to_name": "Daniel",
+      "tenure_reference_month": 0,
+      "tenure_years_at_reference": 8,
+      "employment_type": "宝劫集团内部",
+      "has_direct_reports": true,
+      "education": {
+        "summary": "北京大学统计相关专业本科；英国G5硕士（具体学校未指定）",
+        "status": "本次新增虚构配角履历",
+        "fictional": true
+      },
+      "ability_profile": {
+        "skills": "统计分析与研究设计",
+        "demonstrated_by": "47中给出有根据、但不能替代业务取舍的论证",
+        "self_implication": "知道数据不能替代决定，却会为避免错误被追责而过度限定措辞",
+        "caused_by_school": false
+      }
+    },
+    {
+      "name": "Nina",
+      "role": "University Lecturer",
+      "title": "University Lecturer",
+      "band": "不适用（外部）",
+      "gender": "女",
+      "goal_and_trait": "见老同学，也修改自己的课程提案",
+      "fear": "聘期不稳却被当成已经自由",
+      "limits": "擅长提问，也会省略不体面的失败",
+      "detail": "将学生作业放在会议手袋里",
+      "relationships": "Gregor的美国硕士同班同学；非宝劫集团校招同批员工",
+      "employment_type": "外部合作／服务角色",
+      "reports_to_position": null,
+      "reports_to_name": null,
+      "tenure_reference_month": null,
+      "tenure_years_at_reference": null,
+      "has_direct_reports": false,
+      "external_reporting": "不在人事上向宝劫集团汇报；校外职业机构未细设",
+      "external_experience": "T66首次出场；离开共同硕士项目约五年多，不据此推定连续工作或个人收入",
+      "education": {
+        "summary": "与Gregor同一美国大学硕士项目，具体学校、榜单与专业未指定",
+        "status": "本次新增虚构配角履历",
+        "fictional": true
+      },
+      "ability_profile": {
+        "skills": "教学与问题分析",
+        "demonstrated_by": "54中不同的人生选择及各自具体约束",
+        "self_implication": "擅长提问，也会省略不体面的失败",
+        "caused_by_school": false
+      }
+    },
+    {
+      "name": "Ben",
+      "role": "Small Business Founder",
+      "title": "Small Business Founder",
+      "band": "不适用（外部）",
+      "gender": "男",
+      "goal_and_trait": "维持小生意，和同学好好吃饭",
+      "fear": "资金紧张和客户流失",
+      "limits": "能判断客户，却会在同学面前夸大一笔未落地订单",
+      "detail": "手机壳夹着没寄出的报价单",
+      "relationships": "Gregor的美国硕士同班同学；非宝劫集团校招同批员工",
+      "employment_type": "外部合作／服务角色",
+      "reports_to_position": null,
+      "reports_to_name": null,
+      "tenure_reference_month": null,
+      "tenure_years_at_reference": null,
+      "has_direct_reports": false,
+      "external_reporting": "不在人事上向宝劫集团汇报；校外职业机构未细设",
+      "external_experience": "T66首次出场；离开共同硕士项目约五年多，不据此推定连续工作或个人收入",
+      "education": {
+        "summary": "与Gregor同一美国大学硕士项目，具体学校、榜单与专业未指定",
+        "status": "本次新增虚构配角履历",
+        "fictional": true
+      },
+      "ability_profile": {
+        "skills": "客户理解与日常经营",
+        "demonstrated_by": "54中不同的人生选择及各自具体约束",
+        "self_implication": "能判断客户，却会在同学面前夸大一笔未落地订单",
+        "caused_by_school": false
+      }
+    },
+    {
+      "name": "Thomas",
+      "department": "Regional Business",
+      "role": "Regional Business Director",
+      "title": "Regional Business Director",
+      "band": "Band 3",
+      "gender": "男",
+      "goal_and_trait": "把业务问题做成可决策的方案，也认真培养合作的人",
+      "fear": "交付失约或把时间承诺给太多人",
+      "limits": "Business Acumen与组织判断强，但不全知；四个月后调回原任务，不能长期替Gregor挡所有压力",
+      "detail": "辅导前先问对方手上还有哪些真实约束",
+      "relationships": "T4—T7与Gregor共事四个月，海外项目Coach，非Line Manager；Michael仍负责目标和绩效",
+      "reports_to_position": "Regional VP",
+      "reports_to_name": "Daniel",
+      "tenure_reference_month": 4,
+      "tenure_years_at_reference": 6,
+      "employment_type": "宝劫集团内部",
+      "has_direct_reports": true,
+      "joined_at": "此前已在海外团队任职",
+      "education": {
+        "summary": "优秀专业背景，具体学校和学位未指定",
+        "status": "用户指定角色；未指定学校不推测",
+        "fictional": true
+      },
+      "ability_profile": {
+        "skills": "Business Acumen、资源判断、Coaching和复杂组织关系",
+        "demonstrated_by": "能说明方案为何不成立，也安排具体交接保护对方的生活时间",
+        "self_implication": "Business Acumen与组织判断强，但不全知；四个月后调回原任务，不能长期替Gregor挡所有压力",
+        "caused_by_school": false
+      },
+      "coach_assignment": {
+        "start_month": 4,
+        "end_month": 7,
+        "shared_months": 4,
+        "foreign_background": "来自海外，具体国籍与族裔未设定",
+        "quote": "Life is your priority.",
+        "is_gregor_line_manager": false
+      }
+    },
+    {
+      "name": "Emma",
+      "department": "Marketing",
+      "role": "Brand Manager",
+      "title": "Brand Manager",
+      "band": "Band 1",
+      "gender": "女",
+      "goal_and_trait": "独立讲清自己负责的产品项目，不只交一份漂亮Deck",
+      "fear": "一次Challenge就证明自己不适合这份工作",
+      "limits": "数理与执行不错，紧张时会把所有图表塞进Presentation；不想别人代讲",
+      "detail": "能很快写出Gregor不熟练的数据核对公式",
+      "relationships": "T60入职Band 1 Hair Care Brand Manager，向Michael汇报；新规划57在T63、58拟T65—T66，旧58正文尚未改动；Gregor支持但不是其人事经理",
+      "reports_to_position": "Marketing Director",
+      "reports_to_name": "Michael",
+      "tenure_reference_month": 60,
+      "tenure_years_at_reference": 0,
+      "employment_type": "宝劫集团内部",
+      "has_direct_reports": false,
+      "joined_at": "T60",
+      "education": {
+        "summary": "优秀教育背景，学校与学位未指定，不据此推断能力排名",
+        "status": "用户指定角色；未指定学校不推测",
+        "fictional": true
+      },
+      "ability_profile": {
+        "skills": "数据核对、项目执行及消费者问题理解",
+        "demonstrated_by": "能区分出货和终端销售口径，也会指出Gregor改稿时漏掉的限制",
+        "self_implication": "数理与执行不错，紧张时会把所有图表塞进Presentation；不想别人代讲",
+        "caused_by_school": false
+      },
+      "career_events": [
+        {
+          "month": 60,
+          "band": "Band 1",
+          "title": "Brand Manager"
+        }
+      ],
+      "current_at_T66": {
+        "band": "Band 1",
+        "experience_months": 6,
+        "role_in_buddy_arc": "有自主目标与能力的年轻同事，非Gregor的下属或道德奖章"
+      },
+      "development_history": [
+        "T60入职，T63第一次发膜试点评审，开始坚持自己的证据边界",
+        "T66能独立核对同店数据，部分工具能力超过Gregor"
+      ],
+      "outside_work": "周末参加业余乐队排练，并不希望工作占据每个晚间",
+      "future_arc_boundary": "未来可在部分专业或职业成绩上超过Gregor，不预先保证晋升或把成就归功于导师"
+    },
+    {
+      "name": "Lucas",
+      "department": "CBD",
+      "role": "Customer Business Manager",
+      "title": "Customer Business Manager",
+      "band": "Band 1",
+      "gender": "男",
+      "goal_and_trait": "在强势客户面前作出可兑现的承诺，建立自己的客户关系",
+      "fear": "被客户或同事认为只会传话",
+      "limits": "沟通强但第一次面对谈判施压容易答应过快，不应被写成不懂销售的工具人",
+      "detail": "会在通话后立即逐项记下双方真正答应的条件",
+      "relationships": "向CBD Director汇报，Ryan提供职能指导；Gregor只帮助跨部门协作，无权替他承诺客户日期",
+      "reports_to_position": "CBD Director",
+      "reports_to_name": null,
+      "tenure_reference_month": 59,
+      "tenure_years_at_reference": 0,
+      "employment_type": "宝劫集团内部",
+      "has_direct_reports": false,
+      "joined_at": "T59",
+      "education": {
+        "summary": "优秀教育背景，学校与学位未指定",
+        "status": "用户指定角色；未指定学校不推测",
+        "fictional": true
+      },
+      "ability_profile": {
+        "skills": "客户沟通、谈判准备和渠道执行",
+        "demonstrated_by": "能指出等待内部对齐会错过客户补货窗口，并提出替代交付安排",
+        "self_implication": "沟通强但第一次面对谈判施压容易答应过快，不应被写成不懂销售的工具人",
+        "caused_by_school": false
+      },
+      "career_events": [
+        {
+          "month": 59,
+          "band": "Band 1",
+          "title": "Customer Business Manager"
+        }
+      ],
+      "current_at_T66": {
+        "band": "Band 1",
+        "experience_months": 7,
+        "role_in_buddy_arc": "有自主目标与能力的年轻同事，非Gregor的下属或道德奖章"
+      },
+      "development_history": [
+        "T59加入CBD，先学清客户真实收货条件",
+        "T64在错建议后自行谈回可执行交付；与Ryan和客户建立独立关系"
+      ],
+      "outside_work": "与同城朋友打篮球，有自己的生活安排，不以随时在线证明投入",
+      "future_arc_boundary": "未来可在部分专业或职业成绩上超过Gregor，不预先保证晋升或把成就归功于导师"
+    },
+    {
+      "name": "Grace",
+      "department": "CMK",
+      "role": "CMK Manager",
+      "title": "CMK Manager",
+      "band": "Band 1→Band 2",
+      "gender": "女",
+      "goal_and_trait": "让自己的分析被准确听见，尤其在Leadership Review中",
+      "fear": "表达直接被当作不成熟，证据又被删去",
+      "limits": "分析强，正式表达会紧张；但她的判断不是等Gregor教才出现",
+      "detail": "习惯把可验证事实和外推假设分成两栏",
+      "relationships": "T54入职，T66升Band 2，向Claire汇报；Emily为职能前辈；分析属于她本人",
+      "reports_to_position": "CMK Director",
+      "reports_to_name": "Claire",
+      "tenure_reference_month": 54,
+      "tenure_years_at_reference": 0,
+      "employment_type": "宝劫集团内部",
+      "has_direct_reports": false,
+      "joined_at": "T54",
+      "education": {
+        "summary": "优秀分析训练背景，学校和学位未指定",
+        "status": "用户指定角色；未指定学校不推测",
+        "fictional": true
+      },
+      "ability_profile": {
+        "skills": "研究设计、同店样本比较及不确定性分析",
+        "demonstrated_by": "能主动识别样本覆盖差异，并拒绝被包装为别人的观点",
+        "self_implication": "分析强，正式表达会紧张；但她的判断不是等Gregor教才出现",
+        "caused_by_school": false
+      },
+      "career_events": [
+        {
+          "month": 54,
+          "band": "Band 1",
+          "title": "CMK Manager"
+        },
+        {
+          "month": 66,
+          "band": "Band 2",
+          "title": "CMK Manager"
+        }
+      ],
+      "current_at_T66": {
+        "band": "Band 2",
+        "experience_months": 12,
+        "role_in_buddy_arc": "有自主目标与能力的年轻同事，非Gregor的下属或道德奖章"
+      },
+      "development_history": [
+        "T54入职，独立训练研究设计与样本判断",
+        "T66升Band 2；先识别证据缺口，学习自己在Director面前解释，不由Gregor代言"
+      ],
+      "outside_work": "喜欢做植物观察记录，不把私人兴趣作为需要展示的绩效",
+      "future_arc_boundary": "未来可在部分专业或职业成绩上超过Gregor，不预先保证晋升或把成就归功于导师"
+    },
+    {
+      "name": "Ethan",
+      "department": "Finance",
+      "role": "Finance Manager",
+      "title": "Finance Manager",
+      "band": "Band 1",
+      "gender": "男",
+      "goal_and_trait": "把费用和模型做准确，让自己的贡献被看见",
+      "fear": "核对工作被认为只是机械细活，或开口索取署名显得计较",
+      "limits": "认真敏感，可能为不出错过度复核；有自己的判断和拒绝，不是永远报恩的新人",
+      "detail": "能从原凭证发现汇总表没有解释的费用差异",
+      "relationships": "向Aaron汇报，Kevin提供职能指导；与Emma等年轻同事有独立合作，Gregor无其绩效权",
+      "reports_to_position": "Finance Director",
+      "reports_to_name": "Aaron",
+      "tenure_reference_month": 65,
+      "tenure_years_at_reference": 0,
+      "employment_type": "宝劫集团内部",
+      "has_direct_reports": false,
+      "joined_at": "T65",
+      "education": {
+        "summary": "优秀教育背景，学校与学位未指定",
+        "status": "用户指定角色；未指定学校不推测",
+        "fictional": true
+      },
+      "ability_profile": {
+        "skills": "费用核对、模型一致性与风险意识",
+        "demonstrated_by": "能独立找到被误归属的费用，后在相关领域超过Gregor",
+        "self_implication": "认真敏感，可能为不出错过度复核；有自己的判断和拒绝，不是永远报恩的新人",
+        "caused_by_school": false
+      },
+      "career_events": [
+        {
+          "month": 65,
+          "band": "Band 1",
+          "title": "Finance Manager"
+        }
+      ],
+      "current_at_T66": {
+        "band": "Band 1",
+        "experience_months": 1,
+        "role_in_buddy_arc": "有自主目标与能力的年轻同事，非Gregor的下属或道德奖章"
+      },
+      "development_history": [
+        "T65入职，学习财务流程同时保留敏锐的原凭证判断",
+        "T66独立查明费用出处、提出署名，并向Lucas解释核对方法"
+      ],
+      "outside_work": "照顾一只领养猫，需要安排正常下班生活，不只有等待认可",
+      "future_arc_boundary": "未来可在部分专业或职业成绩上超过Gregor，不预先保证晋升或把成就归功于导师"
+    }
+  ],
+  "band_rules": {
+    "Band 1": "校招入职即为Manager；项目管理岗，不等于普通专员",
+    "Band 2": "通常入职约一年晋升的Manager；不是Director，不自动获得下属或最终决策权",
+    "Band 3": "Director；担任Band 1、Band 2员工的Line Manager",
+    "Band 4": "本系列补充设定：本地职能VP，David为Marketing VP",
+    "Band 5": "本系列补充设定：Regional VP，Daniel",
+    "Band 6": "本系列补充设定：Global President，未出场职务"
+  },
+  "tenure_rule": "内部角色以reference_month为基准，tenure_years_at_reference为在宝劫集团任职年限；T为Gregor入职后月数。任职年限不是年龄或在岗年限。Leo在T27才入职。外部角色单列从业经验，不套集团Band。",
+  "positions": {
+    "Global President": {
+      "band": "Band 6",
+      "title": "Global President",
+      "incumbent": null,
+      "reports_to": null,
+      "status": "未出场职务，不预设人物名"
+    },
+    "Regional VP": {
+      "band": "Band 5",
+      "title": "Regional VP",
+      "incumbent": "Daniel",
+      "reports_to": "Global President"
+    },
+    "Marketing VP": {
+      "band": "Band 4",
+      "title": "Marketing VP",
+      "incumbent": "David",
+      "reports_to": "Regional VP"
+    },
+    "Marketing Director": {
+      "band": "Band 3",
+      "title": "Marketing Director",
+      "incumbent": "Michael",
+      "reports_to": "Marketing VP"
+    },
+    "HR Director": {
+      "band": "Band 3",
+      "title": "HR Director",
+      "incumbent": null,
+      "reports_to": "Regional VP",
+      "status": "明确的未出场职务，新增人物时再命名"
+    },
+    "Finance Director": {
+      "band": "Band 3",
+      "title": "Finance Director",
+      "incumbent": "Aaron",
+      "reports_to": "Regional VP",
+      "status": "本次填入此前未具名职务，沿用既有汇报线"
+    },
+    "CMK Director": {
+      "band": "Band 3",
+      "title": "CMK Director",
+      "incumbent": "Claire",
+      "reports_to": "Regional VP",
+      "status": "本次填入此前未具名职务，沿用既有汇报线"
+    },
+    "CBD Director": {
+      "band": "Band 3",
+      "title": "CBD Director",
+      "incumbent": null,
+      "reports_to": "Regional VP",
+      "status": "明确的未出场职务，新增人物时再命名"
+    },
+    "IT Director": {
+      "band": "Band 3",
+      "title": "IT Director",
+      "incumbent": null,
+      "reports_to": "Regional VP",
+      "status": "明确的未出场职务，新增人物时再命名"
+    },
+    "R&D Director": {
+      "band": "Band 3",
+      "title": "R&D Director",
+      "incumbent": null,
+      "reports_to": "Regional VP",
+      "status": "明确的未出场职务，新增人物时再命名"
+    },
+    "Product Supply Director": {
+      "band": "Band 3",
+      "title": "Product Supply Director",
+      "incumbent": null,
+      "reports_to": "Regional VP",
+      "status": "明确的未出场职务，新增人物时再命名"
+    },
+    "Regional Business Director": {
+      "band": "Band 3",
+      "title": "Regional Business Director",
+      "incumbent": "Thomas",
+      "reports_to": "Regional VP",
+      "status": "海外区域团队职务，项目Coach，不更改Michael的直属管理关系"
+    }
+  },
+  "series_present": {
+    "month": 66,
+    "label": "五年多（编辑锚点：五年半）",
+    "gregor_experience_years": 5.5,
+    "experience_text": "5年多，不是五年整、八年或十年",
+    "timeline_rule": "T0入职、T12升Band 2；早期回忆不是现在时。T60参考原著工作五年后首次变虫；原文第八节第二年保留为跨度待释义，不硬算进现在时。",
+    "early_line_manager": "Michael",
+    "reporting_change_registered": false,
+    "original_metamorphosis_anchor_month": 60,
+    "unresolved_source_time": "原著第八节第二年与T66不能同时按日历逐字坐实；不改原文，不伪称已消除差异"
+  },
+  "education_policy": {
+    "fictional": true,
+    "scope": "仅属虚构宝劫集团画像，学校不决定能力性格；不改变Hair Care及原著风格优先级",
+    "rank_scope": "Gregor为世界排名Top 20的美国大学硕士这一虚构履历；未指定榜单、年份、校名，不自动改成美国国内排名或报出现实大学名次",
+    "school_does_not_determine_ability": true,
+    "elite_population": [
+      "清华、北大",
+      "复旦、上海交大、浙大、南大、人大等顶尖985",
+      "美国Top 20大学本科或硕士",
+      "英国G5",
+      "海外知名商学院",
+      "其他985、211、双一流",
+      "广东外语外贸大学等外语与国际商务特色高校"
+    ],
+    "age_rule": "部分虚构Director上任时未满30岁，不是统一晋升年龄；未设年龄者不可由年资倒推"
+  },
+  "buddy_arc": {
+    "coach": "Thomas",
+    "shared_work_months": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "coach_quote": "Life is your priority.",
+    "quote_use": "行为先于引用；不每篇反复说，不作人物万能口号",
+    "formal_first_buddy_recipient": "Leo",
+    "first_formal_buddy_month": 27,
+    "active_help_begins_month": 25,
+    "principle": "专业成绩和对他人的影响可以同时存在；不以事业失败换人心，不以善意抵扣专业错误",
+    "boundaries": [
+      "Buddy不是Line Manager，无绩效决定权、预算最终审批权或心理治疗职责",
+      "先问本人需要与同意，不代写、代承诺、替本人作人生决定",
+      "限定时间与范围，升级风险到有权限者，帮助也会造成返工和依赖",
+      "真实贡献可被认可，但不保证Promotion、People Manager Award或额外绩效加分"
+    ],
+    "longitudinal_stages": [
+      {
+        "months": "T0—T3",
+        "change": "渴望优秀Leader认可，普通人身体，开始学习公司话术"
+      },
+      {
+        "months": "T4—T7",
+        "change": "短暂获得Thomas四个月Coaching与生活优先的具体交接"
+      },
+      {
+        "months": "T8—T12",
+        "change": "接受组织语言，T12正常升Band 2，身体尚未变虫"
+      },
+      {
+        "months": "T25—T36",
+        "change": "主动帮助新人，T27成为Leo的Buddy，同时可能包办、嫉妒和迁怒"
+      },
+      {
+        "months": "T37—T59",
+        "change": "积累Hair Care、Insight、GTM和跨部门经验；逐渐会替组织说话，仍有人性温度"
+      },
+      {
+        "months": "T60—T66",
+        "change": "甲虫身体被组织使用；自己主动输出黑话，帮助年轻人时也可能复制旧话术；5年多现在时"
+      }
+    ],
+    "style_priority": "Thomas与Buddy线服从原著冷面反讽，不升级为励志或温柔导师的单线自我实现"
+  },
+  "source_of_truth": {
+    "original_path": "原著/快消市场部变形记-原始上传.txt",
+    "manifest_path": "原著/原著登记.json",
+    "baseline_path": "原著风格与人物基准.md",
+    "must_read_original_before_writing": true,
+    "original_read_scope": "已完整阅读开篇及八节至末句Capacity",
+    "original_is_immutable": true,
+    "latest_user_facts_override_legacy": true
+  }
+}
